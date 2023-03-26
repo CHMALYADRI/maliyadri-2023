@@ -1,0 +1,3 @@
+str1="hellojava"
+for s in str1:
+    print(s, end="")
